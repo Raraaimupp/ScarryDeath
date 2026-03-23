@@ -1,6 +1,6 @@
 module.exports = {
-  BOT_TOKEN: "TOKEN BOT LUU",
-  OWNER_ID: ["1886007660"], 
+  BOT_TOKEN: "8772524557:AAF12MH9HkNrSvU05pw98Mp_lnNXpL80Yzk",
+  OWNER_ID: ["1659805549"],
   NOTIF_ID: "-1003223539193", 
   domain: "https://",
   plta: "ptla_",
