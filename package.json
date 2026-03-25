@@ -6,7 +6,7 @@
     "start": "node SCARRYDEATH.js"
   },
   "dependencies": {
- "@whiskeysockets/baileys": "github:Raraaimupp/Baileysx",
+ "@whiskeysockets/baileys": "npm:@otaxayuns/baileys@latest",
    "@google/generative-ai": "^0.24.1", 
     "moment": "^2.30.1",
     "adm-zip": "latest",
